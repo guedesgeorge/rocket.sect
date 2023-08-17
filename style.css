@@ -72,6 +72,10 @@ p {
   left: 397px;
   margin: 0 auto 27px;
   border: 1px solid #00BFA6;
+  margin-top: 300px;
+  
+  
+  
 }
 
 footer {
@@ -82,11 +86,19 @@ footer {
   color: white;
   
   
+  
 }
 
 footer a {
   color: white;
   margin-bottom: 23px;
+
+}
+
+#padlock{
+  position: fixed;
+  bottom: 0px;
+  left: 0;
 }
 
 
